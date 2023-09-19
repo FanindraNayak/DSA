@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Using class to create a singly linked list node
+// Using class to create a singly linked list node using cpp
 
 class linked_list
 {
