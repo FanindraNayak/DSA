@@ -5,7 +5,7 @@ using namespace std;
 
 /**
  * * Hi this is a function that takes an integer as an input and prints all the prime number till the number
- * todo : Make the optimization
+ *   Todo : Make the optimization
  */
 
 void print(vector<bool> &arr)
